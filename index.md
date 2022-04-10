@@ -4,8 +4,10 @@ title: "Adventures in Machine Learning with Python"
 
 #Hi, I'm Chad!
 
-![image](https://user-images.githubusercontent.com/7433842/162601504-99dc033d-f79c-4e29-afa6-c6cb0b6ff3ca.png =250)
-![image](https://user-images.githubusercontent.com/7433842/162601515-75df1d7c-72ed-47a9-9720-95bbfdc67bea.png =250)
+![image](https://user-images.githubusercontent.com/7433842/162601504-99dc033d-f79c-4e29-afa6-c6cb0b6ff3ca.png | height=250)
+
+![image](https://user-images.githubusercontent.com/7433842/162601515-75df1d7c-72ed-47a9-9720-95bbfdc67bea.png | height=250)
+
 
 I am going to document my progress with machine learning using Python.
 
