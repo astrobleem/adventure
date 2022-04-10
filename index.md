@@ -4,9 +4,9 @@ title: "Adventures in Machine Learning with Python"
 
 #Hi, I'm Chad!
 
-<img src=https://user-images.githubusercontent.com/7433842/162601504-99dc033d-f79c-4e29-afa6-c6cb0b6ff3ca.png height=100>
+<img src="https://user-images.githubusercontent.com/7433842/162601504-99dc033d-f79c-4e29-afa6-c6cb0b6ff3ca.png" height=100>
 
-<img src=https://user-images.githubusercontent.com/7433842/162601515-75df1d7c-72ed-47a9-9720-95bbfdc67bea.png height=100>
+<img src="https://user-images.githubusercontent.com/7433842/162601515-75df1d7c-72ed-47a9-9720-95bbfdc67bea.png" height=100>
 
 
 I am going to document my progress with machine learning using Python.
@@ -41,7 +41,7 @@ Reinforcement models through trial and error establish the best course of action
 
 Some of this information was gathered by reading the following articles:
 
-https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+<a href= "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained"> Machine Learning Explained.</a>
 
 https://www.expert.ai/blog/machine-learning-definition/
 
