@@ -15,7 +15,8 @@ Me: "Alexa, define Machine Learning"
 
 Alexa: 
 
-Machine Learning is a field of study concerned with the design and study of algorithms that are used by computers to learn.
+"Machine Learning is a field of study concerned with the design and study of algorithms that are used by computers to learn."
+
 
 An example application of this could be a system that is able to improve from experience without being explicitly programmed to do so.
 
