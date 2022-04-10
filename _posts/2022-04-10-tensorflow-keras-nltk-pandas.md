@@ -3,9 +3,10 @@ title: dependencies
 author: Chad Doebelin
 date: 2022-04-10
 ---
+Dependencies
+: Dependencies are all of the software components required by your project in order for it to work as intended and avoid runtime errors
 
 Some of the dependencies that we need to might need to install are:
-
 - **tensorflow** (https://tensorflow.org/)
 - **keras** (https://keras.io)
 - **nltk** (https://www.nltk.org/)
@@ -16,7 +17,7 @@ Some of the dependencies that we need to might need to install are:
 
 We will use **pip** to install them
 
-1.)
+1.
 #Tensorflow is an open source library for ML and AI. 
 ##this framework
 -provides methods to directly create Deep Learning Models
@@ -29,7 +30,7 @@ We will use **pip** to install them
 pip install tensorflow
 ```
 
-2.) 
+2. 
 #Keras is an open source library that provides an interface for #Neural Networks
 -Keras interfaces the TensorFlow library
 -high level interface 
@@ -44,7 +45,7 @@ pip install tensorflow
 pip install keras
 ```
 
-3.)
+3.
 #NLTK, Natural Language Tool Kit
 -suite of libraries for symbolic and statistical natural language processing
 -Natural Language Processing explores the relationship between computers and human language.
@@ -63,25 +64,27 @@ Primer:
 ##connectionist approach 
 -a combination of the two previous aproaches, starting with generally accepted rules, further refinements are made using statically derrived inferences.
 
-#4.)
+4.
 
 Pandas (https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
 this library contains tools for manipulation and data analysis 
 containing operations for working with time series and quanative data.
 fill, normalization, joins, and cleaning.
 
-'''
+```
 pip install pandas
-'''
+```
 
 
-#5.) 
-NumPy(https://www.w3schools.com/python/numpy/numpy_intro.asp)
+ 
+#NumPy
 this core package adds supportfor the manipulation of arrays and matricies.
-
+(https://www.w3schools.com/python/numpy/numpy_intro.asp)
 ```
 pip install numpy
 ```
 
-
-
+5.
+#Scikit Learn
+-predicitve data analytsius tools
+-built on numpy, scipy and matplotlib
