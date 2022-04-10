@@ -42,9 +42,9 @@ Reinforcement models through trial and error establish the best course of action
 
 Some of this information was gathered by reading the following articles:
 
-<a href= "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained"> Machine Learning Explained.</a>
+<a href= "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained">Machine Learning Explained.</a>
 
-<a href= https://www.expert.ai/blog/machine-learning-definition/> Machine Learning Definition</a>
+<a href= "https://www.expert.ai/blog/machine-learning-definition">Machine Learning Definition</a>
 
 Asking Alexa, and querying google.
 
