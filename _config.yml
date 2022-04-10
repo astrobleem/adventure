@@ -1,5 +1,5 @@
 title: Adventures in Machine Learning
-theme: minima
+theme: jekyll-theme-time-machine
 author: Chad Doebelin
 email: chad.doebelin@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
