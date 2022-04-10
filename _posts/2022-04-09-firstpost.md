@@ -1,3 +1,8 @@
+---
+title: "ITS A FIRST POST"
+date: 2022-04-09
+---
+
 This first post is simply the results of setting up the GitHub Pages environment, and a few short steps documenting the steps 
 I took to get Jupyter Notebook working on my system.
 
