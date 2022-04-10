@@ -21,11 +21,11 @@ We will use **pip** to install them
 
 
 # Tensorflow is an open source library for ML and AI. 
-## this framework
 - provides methods to directly create Deep Learning Models
 - created by google
 - library that invokes C++
 - constructs and execute dataflow graphs
+
 (https://www.datasciencecentral.com/understanding-dataflow-graphs-in-tensorflow/)
 
 ```
@@ -51,14 +51,13 @@ pip install keras
 # NLTK Natural Language Tool Kit
 
 - suite of libraries for symbolic and statistical natural language processing
-
 - Natural Language Processing explores the relationship between computers and human language.
-
 - The goal of which is for computers to comprehend text and language with human-like recognition.
 
 
 Primer:
 # Main Approaches
+
 ## Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
 - human developed rules and lexicons - rules of speech
 - synthsization flows from linguistic expert training
@@ -75,6 +74,7 @@ Primer:
 - this library contains tools for manipulation and data analysis 
 - containing operations for working with time series and quanative data.
 - fill, normalization, joins, and cleaning.
+
 (https://www.activestate.com/resources/quick-reads/what-is-pandas-in-python-everything-you-need-to-know/)
 
 ```
@@ -84,6 +84,7 @@ pip install pandas
 
 # NumPy
 -this core package adds supportfor the manipulation of arrays and matricies.
+
 (https://www.w3schools.com/python/numpy/numpy_intro.asp)
 
 ```
