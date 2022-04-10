@@ -40,6 +40,7 @@ pip install tensorflow
 - provides clean and simplfied way to create deep learning models using tensorflow
 
 (https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/)
+
 (https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-algorithm)
 
 
@@ -58,7 +59,9 @@ pip install keras
 Primer:
 # Main Approaches
 
-Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
+(https://www.expert.ai/blog/natural-language-processing/)
+
+Symbolic Aproach
 - human developed rules and lexicons - rules of speech
 - synthsization flows from linguistic expert training
 
