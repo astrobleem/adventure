@@ -4,13 +4,16 @@ author: Chad Doebelin
 date: 2022-04-10
 ---
 
-Some of the dependencies that we need to install are 
-*tensorflow (https://tensorflow.org/)
-*keras (https://keras.io)
-*nltk
-*pandas
+Some of the dependencies that we need to install are:
 
-We will use pip to install them
+- **tensorflow** (https://tensorflow.org/)
+- **keras** (https://keras.io)
+- **nltk** (https://www.nltk.org/)
+- **pandas** (https://pandas.pydata.org/)
+- **scikit learn** (https://scikit-learn.org/stable/)
+- 
+
+We will use **pip** to install them
 
 #1.)
 Tensorflow is an open source library for ML and AI. 
