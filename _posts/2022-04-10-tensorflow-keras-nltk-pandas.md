@@ -20,8 +20,8 @@ Some of the dependencies that we need to might need to install are:
 We will use **pip** to install them
 
 
-#Tensorflow is an open source library for ML and AI. 
-##this framework
+# Tensorflow is an open source library for ML and AI. 
+## this framework
 - provides methods to directly create Deep Learning Models
 - created by google
 - library that invokes C++
@@ -33,7 +33,7 @@ pip install tensorflow
 ```
 
 
-#Keras is an open source library that provides an interface for #Neural Networks
+# Keras is an open source library that provides an interface for #Neural Networks
 - Keras interfaces the TensorFlow library
 - high level interface 
 - api
@@ -48,7 +48,7 @@ pip install keras
 ```
 
 
-#NLTK Natural Language Tool Kit
+# NLTK Natural Language Tool Kit
 
 - suite of libraries for symbolic and statistical natural language processing
 
@@ -58,19 +58,19 @@ pip install keras
 
 
 Primer:
-#Main Approaches
-##Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
+# Main Approaches
+## Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
 - human developed rules and lexicons - rules of speech
 - synthsization flows from linguistic expert training
 
-##statistical approrach
+## Statistical approrach
 - Identifies trends in samples, the system is able to develop its own linguistic rules which are developed to further 
 - improve its understanding for generating language outputs.
 
-##connectionist approach 
+## connectionist approach 
 - a combination of the two previous aproaches, starting with generally accepted rules, further refinements are made using statically derrived inferences.
 
-#Pandas 
+# Pandas 
 
 - this library contains tools for manipulation and data analysis 
 - containing operations for working with time series and quanative data.
@@ -82,7 +82,7 @@ pip install pandas
 ```
 
 
-#NumPy
+# NumPy
 -this core package adds supportfor the manipulation of arrays and matricies.
 (https://www.w3schools.com/python/numpy/numpy_intro.asp)
 
@@ -91,7 +91,7 @@ pip install numpy
 ```
 
 
-#Scikit Learn
+# Scikit Learn
 - predicitve data analytsius tools
 - built on numpy, scipy and matplotlib
 
