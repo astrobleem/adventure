@@ -43,7 +43,7 @@ Some of this information was gathered by reading the following articles:
 
 <a href= "https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained"> Machine Learning Explained.</a>
 
-https://www.expert.ai/blog/machine-learning-definition/
+<a href= https://www.expert.ai/blog/machine-learning-definition/> Machine Learning Definition</a>
 
 Asking Alexa, and querying google.
 
