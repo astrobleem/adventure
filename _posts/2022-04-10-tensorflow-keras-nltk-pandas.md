@@ -98,6 +98,7 @@ pip install numpy
 # Scikit Learn
 - predicitve data analytsius tools
 - built on numpy, scipy and matplotlib
+![](https://scikit-learn.org/stable/)
 
 ```
 pip install scikit
