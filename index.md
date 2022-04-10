@@ -38,10 +38,5 @@ I now have a Jupyter Notebook
 
 
 
-Next post we will install the needed dependencies.
-
-
-
-Anaconda, 
-2.) The second steps will be retreive our dataset
+Next post we will install the needed dependencies and load a dataset.
 
