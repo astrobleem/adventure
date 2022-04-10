@@ -58,15 +58,15 @@ pip install keras
 Primer:
 # Main Approaches
 
-## Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
+Symbolic Aproach:(https://www.expert.ai/blog/natural-language-processing/)
 - human developed rules and lexicons - rules of speech
 - synthsization flows from linguistic expert training
 
-## Statistical approrach
+Statistical approrach
 - Identifies trends in samples, the system is able to develop its own linguistic rules which are developed to further 
 - improve its understanding for generating language outputs.
 
-## connectionist approach 
+connectionist approach 
 - a combination of the two previous aproaches, starting with generally accepted rules, further refinements are made using statically derrived inferences.
 
 # Pandas 
