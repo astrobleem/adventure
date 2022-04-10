@@ -83,7 +83,7 @@ pip install pandas
 
 
 # NumPy
--this core package adds supportfor the manipulation of arrays and matricies.
+- this core package adds supportfor the manipulation of arrays and matricies.
 
 (https://www.w3schools.com/python/numpy/numpy_intro.asp)
 
